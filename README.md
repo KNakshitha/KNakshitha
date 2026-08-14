@@ -32,29 +32,93 @@
 
 ---
 
-## 🌟 Featured Projects
+## 📂 Featured Projects
 
-### 💗 [PulsePace — AI-Based Voice Emergency Assistance](https://github.com/KNakshitha/PulsePace-AI-Emergency-Assistance-System)
-![AI Voice](https://img.shields.io/badge/AI-Voice_Assistant-ff69b4?style=flat-square)
-![Web](https://img.shields.io/badge/Platform-Web_Application-blue?style=flat-square)
-![Emergency](https://img.shields.io/badge/Domain-Healthcare_%26_Safety-red?style=flat-square)
-* An intelligent emergency assistance system providing real-time, voice-guided first-aid instructions and rapid emergency response assistance.
+<table>
+  <tr>
+    <!-- Card 1: PulsePace -->
+    <td width="50%" valign="top">
+      <h3>🚨 PulsePace AI Emergency Guide</h3>
+      <p><b>Voice-Guided Assistance & Safety</b></p>
+      <p>An intelligent emergency assistance platform providing real-time voice guidance for first aid and immediate safety steps.</p>
+      <hr/>
+      <p><b>Tech Stack:</b></p>
+      <ul>
+        <li><code>Python</code> • <code>Speech Recognition</code> • <code>Tkinter / Web</code></li>
+      </ul>
+      <p><b>Features:</b></p>
+      <ul>
+        <li>🎙️ Real-time voice-guided instructions</li>
+        <li>⚡ Step-by-step interactive emergency handling</li>
+        <li>📍 Rapid response coordination</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/KNakshitha/PulsePace-AI-Emergency-Assistance-System"><b>View Repository →</b></a>
+    </td>
 
-<br/>
+    <!-- Card 2: 2048 Game -->
+    <td width="50%" valign="top">
+      <h3>🎮 2048 Game Engine</h3>
+      <p><b>Puzzle Game Logic & GUI</b></p>
+      <p>A desktop recreation of the classic 2048 tile-sliding puzzle game featuring responsive keyboard controls and scoring.</p>
+      <hr/>
+      <p><b>Tech Stack:</b></p>
+      <ul>
+        <li><code>Python 3</code> • <code>Tkinter</code> • <code>Matrix Logic</code></li>
+      </ul>
+      <p><b>Features:</b></p>
+      <ul>
+        <li>🎯 Matrix compression & merging algorithms</li>
+        <li>⌨️ Full keyboard arrow navigation</li>
+        <li>🎨 Dynamic tile color rendering</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/KNakshitha/2048-AI-Project-"><b>View Repository →</b></a>
+    </td>
+  </tr>
 
-### 🎮 [2048 Game in Python](https://github.com/KNakshitha/2048-AI-Project-)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet?style=flat-square)
-* A desktop recreation of the classic 2048 sliding puzzle game with real-time score tracking and clean matrix manipulation logic.
+  <tr>
+    <!-- Card 3: PDF to Audio -->
+    <td width="50%" valign="top">
+      <h3>🎧 PDF to Audio Converter</h3>
+      <p><b>Document Parsing & TTS</b></p>
+      <p>An intuitive tool that extracts text content from PDF documents and converts it into clear, spoken audio.</p>
+      <hr/>
+      <p><b>Tech Stack:</b></p>
+      <ul>
+        <li><code>Python</code> • <code>pyttsx3</code> • <code>PyPDF2</code></li>
+      </ul>
+      <p><b>Features:</b></p>
+      <ul>
+        <li>📄 Fast multi-page PDF text extraction</li>
+        <li>🔊 Offline Text-to-Speech synthesis</li>
+        <li>📂 File dialog for quick document selection</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/KNakshitha/pdf-to-audio-converter"><b>View Repository →</b></a>
+    </td>
 
-<br/>
-
-### 🎧 [PDF to Audio Converter](https://github.com/KNakshitha/pdf-to-audio-converter)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![TTS](https://img.shields.io/badge/Audio-pyttsx3-orange?style=flat-square)
-* An intuitive Python tool that parses text from PDF documents and converts it into natural speech using text-to-speech technology.
-
----
+    <!-- Card 4: Workshop / Python Tools -->
+    <td width="50%" valign="top">
+      <h3>🛠️ Python Workshop & Utilities</h3>
+      <p><b>Data Structures & Algorithms</b></p>
+      <p>A collection of algorithmic experiments, data structures, and utility scripts exploring Python engineering concepts.</p>
+      <hr/>
+      <p><b>Tech Stack:</b></p>
+      <ul>
+        <li><code>Python 3</code> • <code>DSA</code> • <code>OOP</code></li>
+      </ul>
+      <p><b>Features:</b></p>
+      <ul>
+        <li>💡 Clean and modular Python implementations</li>
+        <li>📊 Algorithm performance optimization</li>
+        <li>🧪 Test scripts and experiment modules</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/KNakshitha/workshop1"><b>View Repository →</b></a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
